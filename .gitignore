@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.next/
+out/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+!.env.example
+instance/
+data/
+*.sqlite*
+*.db*
+*.log
+coverage/
